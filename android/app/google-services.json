@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "978355253679",
+    "project_id": "log-sign-app",
+    "storage_bucket": "log-sign-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978355253679:android:9d9efb104f0996a9287f5a",
+        "android_client_info": {
+          "package_name": "com.validation.log_sign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978355253679-24k52al6upc85j50frkb7q2ek0abenst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.validation.log_sign_app",
+            "certificate_hash": "fab0d9c2deab5fd2cb2e7226fda3a766163d45be"
+          }
+        },
+        {
+          "client_id": "978355253679-la2f17rnrh0gnvsb0epjj9p4oke581b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdyc-QEyc_vqcAG8FvhtmKWZqkQDKXZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978355253679-0fm6jpuuv2gr7l2dmlh3v68ipqbsseu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978355253679-g130mtgnsls8o483k253ssg6vbrc89o5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.validation.logSignApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
